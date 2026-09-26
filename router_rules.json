@@ -1,0 +1,12 @@
+{
+  "heavy_keywords": ["법률", "의료", "전문 인증", "경쟁사 분석", "브랜드 전략", "심층 리서치", "카피라이팅 전략"],
+  "medium_keywords": ["차별화 강조", "경쟁사 비교", "브랜드 톤", "캠페인", "시리즈물"],
+  "length_threshold_heavy": 1500,
+  "length_threshold_medium": 600,
+  "default_weight": "light",
+  "model_map": {
+    "light": "claude-haiku-4-5-20251001",
+    "medium": "claude-sonnet-5",
+    "heavy": "claude-opus-5-5"
+  }
+}
